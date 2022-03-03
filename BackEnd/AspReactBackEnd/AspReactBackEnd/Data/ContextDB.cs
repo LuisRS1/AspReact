@@ -7,6 +7,6 @@
         {
         }
 
-        public DbSet<User> User { get; set; } = null!;
+        public DbSet<User> Users { get; set; } = null!;
     }
 }
