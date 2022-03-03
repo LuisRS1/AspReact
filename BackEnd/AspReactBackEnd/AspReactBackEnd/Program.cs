@@ -3,7 +3,7 @@ global using System.ComponentModel.DataAnnotations.Schema;
 global using Microsoft.EntityFrameworkCore;
 global using AspReactBackEnd.Models;
 global using AspReactBackEnd.Data;
-
+global using Microsoft.AspNetCore.Mvc;
 
 
 var builder = WebApplication.CreateBuilder(args);
