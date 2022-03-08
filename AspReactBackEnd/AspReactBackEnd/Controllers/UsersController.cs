@@ -71,15 +71,11 @@ namespace AspReactBackEnd.Controllers
             }
 
             if ((result.Name != user.Name ||
-                 result.Email != user.Email ||
-                 result.Phone != user.Phone ||
-                 result.Address != user.Address)
+                 result.Email != user.Email)
                  && result != null)
             {
                 result.Name = user.Name;
                 result.Email = user.Email;
-                result.Phone = user.Phone;
-                result.Address = user.Address;
                 try
                 {
                     await _context.SaveChangesAsync();

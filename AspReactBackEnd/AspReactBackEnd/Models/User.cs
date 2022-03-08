@@ -19,15 +19,6 @@
         [Required(ErrorMessage = "Password field is required.")]
         public string Password { get; set; }
 
-        [Column("phone")]
-        [Required(ErrorMessage = "Phone field is required.")]
-        [StringLength(maximumLength: 15, MinimumLength = 10)]
-        public string Phone { get; set; }
-
-        [Column("address")]
-        [StringLength(maximumLength: 250)]
-        public string? Address { get; set; }
-
         [Column("avatar")]
         public string? Avatar { get; set; }
     }

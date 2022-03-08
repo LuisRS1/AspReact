@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DuUYOmS/hE9+ImUvvr9Tz4vyPKfEfYKGvGdJzfBoTM2z7kmiMT2+bOicgZB/5qF7PaSLPrwa/0JLGVlaYDXVEA==",
+  "dgSpecHash": "RKbH/9IzPTyzfE1omsuh1AUwr645XCIOo42tZrpkF+lAZJQzWQ5OBST2O0LOqg4gJGodxHg/GX9Dgn/RC0TSOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luisr\\source\\repos\\AspReact\\BackEnd\\AspReactBackEnd\\AspReactBackEnd\\AspReactBackEnd.csproj",
+  "projectFilePath": "C:\\Users\\luisr\\source\\repos\\AspReact\\AspReactBackEnd\\AspReactBackEnd\\AspReactBackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luisr\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\luisr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
