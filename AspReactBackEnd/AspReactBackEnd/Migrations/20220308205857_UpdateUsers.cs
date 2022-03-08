@@ -21,7 +21,7 @@ namespace AspReactBackEnd.Migrations
             migrationBuilder.AlterColumn<DateTime>(
                 name: "updated_at",
                 table: "Users",
-                type: "datetime(6)",
+                type: "datetime",
                 nullable: false,
                 oldClrType: typeof(DateTime),
                 oldType: "datetime")
@@ -31,7 +31,7 @@ namespace AspReactBackEnd.Migrations
             migrationBuilder.AlterColumn<DateTime>(
                 name: "deleted_at",
                 table: "Users",
-                type: "datetime(6)",
+                type: "datetime",
                 nullable: true,
                 oldClrType: typeof(DateTime),
                 oldType: "datetime",
@@ -40,7 +40,7 @@ namespace AspReactBackEnd.Migrations
             migrationBuilder.AlterColumn<DateTime>(
                 name: "created_at",
                 table: "Users",
-                type: "datetime(6)",
+                type: "datetime",
                 nullable: false,
                 oldClrType: typeof(DateTime),
                 oldType: "datetime")
@@ -56,7 +56,7 @@ namespace AspReactBackEnd.Migrations
                 type: "datetime",
                 nullable: false,
                 oldClrType: typeof(DateTime),
-                oldType: "datetime(6)")
+                oldType: "datetime")
                 .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.ComputedColumn)
                 .OldAnnotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.ComputedColumn);
 
@@ -66,7 +66,7 @@ namespace AspReactBackEnd.Migrations
                 type: "datetime",
                 nullable: true,
                 oldClrType: typeof(DateTime),
-                oldType: "datetime(6)",
+                oldType: "datetime",
                 oldNullable: true);
 
             migrationBuilder.AlterColumn<DateTime>(
@@ -75,7 +75,7 @@ namespace AspReactBackEnd.Migrations
                 type: "datetime",
                 nullable: false,
                 oldClrType: typeof(DateTime),
-                oldType: "datetime(6)")
+                oldType: "datetime")
                 .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn)
                 .OldAnnotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn);
 
