@@ -536,3 +536,4 @@ C:\Users\luisr\source\repos\AspReact\AspReactBackEnd\AspReactBackEnd\obj\Debug\n
 C:\Users\luisr\source\repos\AspReact\AspReactBackEnd\AspReactBackEnd\obj\Debug\net6.0\ref\AspReactBackEnd.dll
 C:\Users\luisr\source\repos\AspReact\AspReactBackEnd\AspReactBackEnd\obj\Debug\net6.0\AspReactBackEnd.pdb
 C:\Users\luisr\source\repos\AspReact\AspReactBackEnd\AspReactBackEnd\obj\Debug\net6.0\AspReactBackEnd.genruntimeconfig.cache
+C:\Users\luisr\source\repos\AspReact\AspReactBackEnd\AspReactBackEnd\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

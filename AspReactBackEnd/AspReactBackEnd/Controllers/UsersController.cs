@@ -1,7 +1,10 @@
 ﻿#nullable disable
 
+using Microsoft.AspNetCore.Authorization;
+
 namespace AspReactBackEnd.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class UsersController : ControllerBase
