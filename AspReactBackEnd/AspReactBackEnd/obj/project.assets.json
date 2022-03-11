@@ -9928,11 +9928,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisr\\source\\repos\\AspReact\\AspReactBackEnd\\AspReactBackEnd\\AspReactBackEnd.csproj",
+      "projectUniqueName": "C:\\Users\\luisr\\source\\repos\\AspReactBackEnd\\AspReactBackEnd\\AspReactBackEnd\\AspReactBackEnd.csproj",
       "projectName": "AspReactBackEnd",
-      "projectPath": "C:\\Users\\luisr\\source\\repos\\AspReact\\AspReactBackEnd\\AspReactBackEnd\\AspReactBackEnd.csproj",
+      "projectPath": "C:\\Users\\luisr\\source\\repos\\AspReactBackEnd\\AspReactBackEnd\\AspReactBackEnd\\AspReactBackEnd.csproj",
       "packagesPath": "C:\\Users\\luisr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisr\\source\\repos\\AspReact\\AspReactBackEnd\\AspReactBackEnd\\obj\\",
+      "outputPath": "C:\\Users\\luisr\\source\\repos\\AspReactBackEnd\\AspReactBackEnd\\AspReactBackEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
